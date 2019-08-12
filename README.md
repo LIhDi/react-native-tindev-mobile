@@ -1,7 +1,7 @@
 <br />
 <p align="center">
-  <a href="https://nodejs.org/en/">
-    <img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-6-569582.png" alt="Logo">
+  <a href="https://facebook.github.io/react-native/">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" alt="Logo">
   </a>
 </p>
 
@@ -66,7 +66,7 @@ yarn start
 
 ## Contribuição
 
-1. Faça o _fork_ do projeto (`https://github.com/LihDi/nodejs-tindev-backend/fork`)
+1. Faça o _fork_ do projeto (`https://github.com/LihDi/reactnative-tindev-mobile/fork`)
 2. Crie um _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Adicione suas mudanças (`git add .`)
 4. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
