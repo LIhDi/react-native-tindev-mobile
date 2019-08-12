@@ -1,0 +1,4 @@
+#Sun Aug 11 20:06:18 BRT 2019
+base.0=/home/lihdi/projects/react/tindev/reactnative-tindev-mobile/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
